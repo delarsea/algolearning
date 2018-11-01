@@ -51,4 +51,4 @@ for j in xrange(60000):
     syn2 += l3.T.dot(l3error)
 
 print 'output after training'
-print l2
+print l3
